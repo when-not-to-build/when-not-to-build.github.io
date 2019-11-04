@@ -7,10 +7,10 @@ This interactive gathering will feature diverse invited and contributed perspect
 
 <div style="display: flex">
   <div style="width:22.5%,height:auto">
-    <a href="https://solon.barocas.org">
+    <a href="http://solon.barocas.org">
     <img alt="Solon Barocas" src="https://www.microsoft.com/en-us/research/uploads/prod/2019/04/Barocas-MSR-2.jpg" width="150" height="150">
     </a><br>
-    <a href="https://solon.barocas.org">Solon Barocas</a><br>
+    <a href="http://solon.barocas.org">Solon Barocas</a><br>
     Cornell University,
     Microsoft Research New York City
   </div>
