@@ -1,5 +1,7 @@
 
+While much FAT* work to date has focused on various model and system interventions, the goal of this session will be to foster discussion of when we should not design, build, and deploy models and systems in the first place. Given the recent push for moratoria on facial recognition, protests around the sale of digital technologies to authoritarian government agencies, and the ongoing harms to marginalized groups from automated systems such as risk prediction, a broader discussion around how, when, and why to say _no_ as academics, practitioners, activists, and society, seems both relevant and urgent. 
 
+This interactive gathering will feature diverse invited and contributed perspectives presented in a fishbowl conversation format, accompanied by questions and comments from the audience. While the central focus of this discussion will be on individual instances of past refusal efforts, the high-level goal of the session is to create a foundation for answering long-term questions of: (i) relevant historical and disciplinary contexts, (ii) frameworks and guidelines for practitioners to use when reasoning about ‘not designing, building, or deploying’, and (iii) the broader politics and aftermaths of refusal.
 
 ### Organizers
 
