@@ -50,6 +50,13 @@ This interactive gathering will feature diverse invited and contributed perspect
   
 </div>
 
+
+### Contact
+Should you have any questions, please e-mail us at when.not.to.build@gmail.com.
+
+
+
+
 <!---
 ## Welcome to GitHub Pages
 
