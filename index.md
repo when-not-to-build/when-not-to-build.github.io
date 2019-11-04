@@ -1,3 +1,53 @@
+
+
+
+### Organizers
+
+<div style="display: flex">
+  <div style="width:22.5%,height:auto">
+    <a href="http://solon.barocas.org">
+    <img alt="Solon Barocas" src="https://www.microsoft.com/en-us/research/uploads/prod/2019/04/Barocas-MSR-2.jpg" width="130" height="150">
+    </a><br>
+    <a href="href="http://solon.barocas.org">Solon Barocas</a><br>
+    Cornell University,
+    Microsoft Research New York City
+  </div>
+  
+  <div style="width:2.5%">
+  </div>
+
+  <div style="width:22.5%,height:auto">
+    <a href="https://people.mpi-inf.mpg.de/~jbiega/">
+    <img alt="Asia J. Biega" src="https://www.microsoft.com/en-us/research/uploads/prod/2019/04/asia.jpg" width="130" height="150">
+    </a><br>
+    <a href="https://people.mpi-inf.mpg.de/~jbiega/">Asia J. Biega</a><br>
+    Microsoft Research Montréal
+  </div>
+  
+  <div style="width:2.5%">
+  </div>
+
+  <div style="width:22.5%,height:auto">
+    <a href="http://homepages.math.uic.edu/~bfish3/index.html">
+    <img alt="Benjamin Fish" src="https://www.microsoft.com/en-us/research/uploads/prod/2019/01/befish_small.jpg" width="130" height="150">
+    </a><br>
+    <a href="http://homepages.math.uic.edu/~bfish3/index.html">Benjamin Fish</a><br>
+    Microsoft Research Montréal
+  </div>
+  
+  <div style="width:2.5%">
+  </div>
+
+  <div style="width:22.5%,height:auto">
+    <a href="https://starkcontrast.co">
+    <img alt="Luke Stark" src="https://www.microsoft.com/en-us/research/uploads/prod/2018/11/04_DSF9311_LukeStark2017_color_1000pxed.jpg" width="130" height="150">
+    </a><br>
+    <a href="https://starkcontrast.co">Luke Stark</a><br>
+    Microsoft Research Montréal
+  </div>
+  
+</div>
+
 <!---
 ## Welcome to GitHub Pages
 
