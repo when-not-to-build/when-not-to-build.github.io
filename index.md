@@ -39,6 +39,17 @@ This interactive gathering will feature diverse invited and contributed perspect
   
   <div style="width:2.5%">
   </div>
+  
+  <div style="width:22.5%,height:auto">
+    <a href="http://www.lse.ac.uk/media-and-communications/people/research-staff/jerdrzej-niklas">
+    <img alt="Jedrzej Niklas" src="http://www.lse.ac.uk/media-and-communications/assets/images/people/research-staff/JedrekNiklas2017-Cropped-200x200.jpg" width="150" height="150">
+    </a><br>
+    <a href="http://www.lse.ac.uk/media-and-communications/people/research-staff/jerdrzej-niklas">Jedrzej Niklas</a><br>
+    London School of Economics and Political Science
+  </div>
+  
+  <div style="width:2.5%">
+  </div>
 
   <div style="width:22.5%,height:auto">
     <a href="https://starkcontrast.co">
