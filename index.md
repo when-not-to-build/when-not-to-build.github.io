@@ -5,11 +5,11 @@ While much FAT* work to date has focused on various model and system interventio
 This interactive gathering will feature diverse invited and contributed perspectives presented in a fishbowl conversation format, accompanied by questions and comments from the audience. While the central focus of this discussion will be on individual instances of past refusal efforts, the high-level goal of the session is to create a foundation for answering long-term questions of: (i) relevant historical and disciplinary contexts, (ii) frameworks and guidelines for practitioners to use when reasoning about ‘not designing, building, or deploying’, and (iii) the broader politics and aftermaths of refusal.
 
 ### Call for expression of interest in participation
-The plenary discussion will open with a number of featured speakers who will have five to seven minutes to share their perspective at the beginning of the 90-minute session. The session will subsequently include a "fishbowl" discussion with other interested participants and questions from the audience.
+The plenary discussion will open with a number of featured speakers who will have around five minutes to share their perspective at the beginning of the 90-minute session. The session will subsequently include a "fishbowl" discussion with other interested participants and questions from the audience.
 
 Because of limited space in the plenary discussion, we ask anyone interested in participation to submit a brief application consisting of 1-2 paragraphs on your experience with this topic and what you will want to talk about in this session.  Applications will be selected in order to maximize the diversity of background, experience, and topics. Those who are not selected as featured speakers will be still strongly encouraged to participate via the fishbowl discussion. We invite a broad spectrum of perspectives, including academic, industrial, governmental, civil society, and other perspectives related to past refusal efforts.
 
-By November 27, 2019, please submit the following information to when.not.to.build@gmail.com 
+By November 27, 2019, please submit the following information to when.not.to.build@gmail.com,
 1. Name, email address, affiliation, title.
 2. Short bio.
 3. 1-2 paragraphs on your experience with this topic and what you will want to talk about in this session.
