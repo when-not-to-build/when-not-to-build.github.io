@@ -9,7 +9,7 @@ The plenary discussion will open with a number of featured speakers who will hav
 
 Because of limited space in the plenary discussion, we ask anyone interested in participation to submit a brief application consisting of 1-2 paragraphs on your experience with this topic and what you will want to talk about in this session.  Applications will be selected in order to maximize the diversity of background, experience, and topics. Those who are not selected as featured speakers will be still strongly encouraged to participate via the fishbowl discussion. We invite a broad spectrum of perspectives, including academic, industrial, governmental, civil society, and other perspectives related to past refusal efforts.
 
-By November 27, 2019, please submit the following information to to when.not.to.build@gmail.com :
+By November 27, 2019, please submit the following information to when.not.to.build@gmail.com 
 1. Name, email address, affiliation, title.
 2. Short bio.
 3. 1-2 paragraphs on your experience with this topic and what you will want to talk about in this session.
@@ -41,6 +41,7 @@ Each participant will have to <a href="https://fatconference.org/2020/registrati
   
   <div style="width:2.5%">
   </div>
+  <br>
 
   <div style="width:22.5%,height:auto">
     <a href="http://homepages.math.uic.edu/~bfish3/index.html">
