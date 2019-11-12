@@ -1,4 +1,4 @@
-As part of the <a href="https://fatconference.org/2020/index.html">ACM conference on Fairness, Accountability, and Transparency (FAT*)</a>, taking place from January 27th to January 30th in Barcelona, Spain, we cordially invite participation in a plenary discussion on when practitioners should not design, build, and deploy models and systems. This is part of the Critiquing and Rethinking Accountability, Fairness and Transparency (CRAFT) track at FAT*.
+As part of the [ACM conference on Fairness, Accountability, and Transparency (FAT*)](https://fatconference.org/2020/index.html), taking place from January 27th to January 30th in Barcelona, Spain, we cordially invite participation in a plenary discussion on when practitioners should not design, build, and deploy models and systems. This is part of the [Critiquing and Rethinking Accountability, Fairness and Transparency (CRAFT)](https://fatconference.org/2020/callforcraft.html) track at FAT*.
 
 While much FAT* work to date has focused on various model and system interventions, the goal of this session will be to foster discussion of when we should not design, build, and deploy models and systems in the first place. Given the recent push for moratoria on facial recognition, protests around the sale of digital technologies, and the ongoing harms to marginalized groups from automated systems such as risk prediction, a broader discussion around how, when, and why to say _no_ as academics, practitioners, activists, and society, seems both relevant and urgent. 
 
@@ -14,7 +14,7 @@ By November 27, 2019, please submit the following information to when.not.to.bui
 2. Short bio.
 3. 1-2 paragraphs on your experience with this topic and what you will want to talk about in this session.
 
-Each participant will have to <a href="https://fatconference.org/2020/registration.html">register</a> for the whole conference to attend the session. In case you need financial support to attend the conference, you can <a href="https://fatconference.org/2020/scholarships.html">apply</a> by November 19, 2019.
+Each participant will have to [register](https://fatconference.org/2020/registration.html) for the whole conference to attend the session. In case you need financial support to attend the conference, you can [apply](https://fatconference.org/2020/scholarships.html) by November 19, 2019.
 
 ### Organizers
 
