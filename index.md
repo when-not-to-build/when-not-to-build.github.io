@@ -1,7 +1,20 @@
+As part of the <a href="https://fatconference.org/2020/index.html">ACM conference on Fairness, Accountability, and Transparency (FAT*)</a>, taking place from January 27th to January 30th in Barcelona, Spain, we cordially invite participation in a plenary discussion on when practitioners should not design, build, and deploy models and systems. This is part of the Critiquing and Rethinking Accountability, Fairness and Transparency (CRAFT) track at FAT*.
 
-While much FAT* work to date has focused on various model and system interventions, the goal of this session will be to foster discussion of when we should not design, build, and deploy models and systems in the first place. Given the recent push for moratoria on facial recognition, protests around the sale of digital technologies to authoritarian government agencies, and the ongoing harms to marginalized groups from automated systems such as risk prediction, a broader discussion around how, when, and why to say _no_ as academics, practitioners, activists, and society, seems both relevant and urgent. 
+While much FAT* work to date has focused on various model and system interventions, the goal of this session will be to foster discussion of when we should not design, build, and deploy models and systems in the first place. Given the recent push for moratoria on facial recognition, protests around the sale of digital technologies, and the ongoing harms to marginalized groups from automated systems such as risk prediction, a broader discussion around how, when, and why to say _no_ as academics, practitioners, activists, and society, seems both relevant and urgent. 
 
 This interactive gathering will feature diverse invited and contributed perspectives presented in a fishbowl conversation format, accompanied by questions and comments from the audience. While the central focus of this discussion will be on individual instances of past refusal efforts, the high-level goal of the session is to create a foundation for answering long-term questions of: (i) relevant historical and disciplinary contexts, (ii) frameworks and guidelines for practitioners to use when reasoning about ‘not designing, building, or deploying’, and (iii) the broader politics and aftermaths of refusal.
+
+### Call for expression of interest in participation
+The plenary discussion will open with a number of featured speakers who will have five to seven minutes to share their perspective at the beginning of the 90-minute session. The session will subsequently include a "fishbowl" discussion with other interested participants and questions from the audience.
+
+Because of limited space in the plenary discussion, we ask anyone interested in participation to submit a brief application consisting of 1-2 paragraphs on your experience with this topic and what you will want to talk about in this session.  Applications will be selected in order to maximize the diversity of background, experience, and topics. Those who are not selected as featured speakers will be still strongly encouraged to participate via the fishbowl discussion. We invite a broad spectrum of perspectives, including academic, industrial, governmental, civil society, and other perspectives related to past refusal efforts.
+
+By November 27, 2019, please submit the following information to to when.not.to.build@gmail.com :
+1. Name, email address, affiliation, title.
+2. Short bio.
+3. 1-2 paragraphs on your experience with this topic and what you will want to talk about in this session.
+
+Each participant will have to <a href="https://fatconference.org/2020/registration.html">register</a> for the whole conference to attend the session. In case you need financial support to attend the conference, you can <a href="https://fatconference.org/2020/scholarships.html">apply</a> by November 19, 2019.
 
 ### Organizers
 
