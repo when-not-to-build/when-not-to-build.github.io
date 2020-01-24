@@ -10,13 +10,18 @@ While much FAT* work to date has focused on various model and system interventio
 This interactive gathering will feature diverse invited and contributed perspectives presented in a fishbowl conversation format, accompanied by questions and comments from the audience. While the central focus of this discussion will be on individual instances of pat refusal efforts, the high-level goal of the session is to create a foundation for answering long-term questions of: (i) relevant historical and disciplinary contexts, (ii) frameworks and guidelines for practitioners to use when reasoning about ‘not designing, building, or deploying’, and (iii) the broader politics and aftermaths of refusal.
 
 ### Session plan
-I. (30 mins)  
+I. (10 mins)  
 * Welcome  
-* Opening statements from the features speakers
+* Opening remarks
 
-II. (60 mins)  
-* Conversation with featured speakers on when not to design, build, or deploy (frameworks, contexts)
-* Conversation with featured speakers on how not to design, build, or deploy (practice, politics)
+II.  When Not to Design, Build, or Deploy (frameworks, contexts) (40 mins)
+* Opening statements from the featured speakers
+* Conversation with featured speakers
+* "Fishbowl" conversation open to the audience
+
+III. How Not to Design, Build, or Deploy (practice, politics) (40 mins)
+* Opening statements from the featured speakers
+* Conversation with featured speakers
 * "Fishbowl" conversation open to the audience
 
 ### Featured speakers
@@ -72,7 +77,7 @@ Dr Jat Singh is based at the Dept. Computer Science & Technology, University of 
 Irene Solaiman is a policy researcher at OpenAI. She conducts social impact and fairness analysis and policymaker engagement as part of the Policy Team. She was a fellow at Harvard’s Berkman Klein Center as part of the Assembly Student Fellowship (formerly known as Techtopia) researching the ethics and governance of AI. Irene holds a Master in Public Policy from the Harvard Kennedy School and a self-designed B.A. in International Relations from the University of Maryland.
 </details>  
 
-## Organizers
+### Organizers
 
 <div style="display: flex">
   <div style="width:22.5%,height:auto">
