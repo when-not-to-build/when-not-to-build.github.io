@@ -35,7 +35,7 @@ De’Aira Bryant is a computer science doctoral student in the School of Interac
 I am a software engineer on the Facebook AI team responsible for ensuring that our products and AI systems are fair and unbiased. I graduated from the University of Texas at Austin in May 2019 with degrees in Electrical & Computer Engineering and Plan II, an interdisciplinary Liberal Arts honors major. I was an undergraduate Fellow with the Clements Center for National Security and an Archer Fellow in Washington, D.C. where I worked at the Atlantic Council’s Digital Forensic Research Lab. I also developed the curriculum, and served as the teaching assistant, for a freshman class entitled Pathways to Civic Engagement.
 </details>  
 
-<details><summary>Mathana Stender (Tech Ethicist & Fellow, Centre for Internet and Human Rights, European University Viadrina) </summary>
+<details><summary>Mathana (Tech Ethicist & Fellow, Centre for Internet and Human Rights, European University Viadrina) </summary>
 Mathana Stender is a Berlin-based tech ethicist, rights advocate and storyteller who investigates the impact of emerging technologies on individuals, communities and culture. Their multidisciplinary research brings together art, anthropology, philosophy and socio-economic analysis.
 
 Mathana undertakes research for transparency initiatives that track global biometric surveillance, drafts ethical frameworks around the emerging VR technological ecosystem, contributes technical expertise to international disarmament initiatives, and seeks to create long-term solutions to data agency with the preservation-focused digital archivist organization OpenArchive. They are also a member of working groups at the IEEE's Global Initiative for Ethical AI and Autonomous Systems where they co-author technical standards around algorithmic bias and personal AI assistants, Mathana is a fellow at the Centre for Internet and Human Rights at the European University Viadrina, and holds an MA in Global Communication at the Chinese University of Hong Kong and a BA in international relations and law from the University of Texas at Dallas.
@@ -45,7 +45,7 @@ Mathana undertakes research for transparency initiatives that track global biome
 Sorensen is part of the original team at Jigsaw that launched the Perspective API. Jeff joined Google in 2010 to work with the speech team, developing compact language models for use in on-device recognizer for mobile devices, and lead a team responsible for data collection and annotation. Jeffrey Sorensen has worked on machine learning models for speech recognition and translation, both for Google and previously for IBM.
 </details>  
 
-<details><summary> Catherine  Stinson  (University of Bonn, Center for Science and Thought & University of Cambridge, Leverhulme Centre for the Future of Intelligence) </summary>
+<details><summary> Catherine  Stinson  (University of Bonn & University of Cambridge) </summary>
 Catherine has a MSc in computer science from the University of Toronto, and a PhD in History & Philosophy of Science from the University of Pittsburgh. She used to work on AI projects, and now writes critically about them. Catherine’s articles on the epistemology and ethics of ML have appeared in The Routledge Handbook of the Computational Mind, Philosophy of Science, The Globe and Mail, THIS Magazine, think tank reports, and education policy volumes.
 </details>  
 
