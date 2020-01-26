@@ -19,7 +19,7 @@ II.  When Not to Design, Build, or Deploy (frameworks, contexts) (40 mins)
 * Conversation with featured speakers
 * "Fishbowl" conversation open to the audience
 
-III. How Not to Design, Build, or Deploy (practice, politics) (40 mins)
+III. How to Refuse to Design, Build, or Deploy (practice, politics) (40 mins)
 * Opening statements from the featured speakers
 * Conversation with featured speakers
 * "Fishbowl" conversation open to the audience
