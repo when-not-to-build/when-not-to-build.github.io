@@ -55,7 +55,7 @@ Lucy Vasserman is a manager and technical lead on the Conversation AI team, whic
 
 **2. How Not to Design, Build, or Deploy (practice, politics)**
 
-<details><summary>Laurence Diver (Vrije Universiteit Brussel</summary>
+<details><summary>Laurence Diver (Vrije Universiteit Brussel)</summary>
 Laurence is a postdoctoral researcher in COHUBICOL, a multidisciplinary ERC Advanced Grant-funded project investigating how the foundational principles that underpin modern law can be retained, and if necessary adapted, as legal practice and the legal system are increasingly mediated by code- and data-driven systems. He holds first-class LLB and LLM degrees from the University of Edinburgh, where recently he defended a multidisciplinary Ph.D. synthesising legal-theoretical notions of legitimacy with the theory of design (title: “Digisprudence: the affordance of legitimacy in code-as-law”). You can read more about his research at laurenced.org, or follow him on twitter @laurence_diver.
 </details>  
 
