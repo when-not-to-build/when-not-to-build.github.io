@@ -28,7 +28,8 @@ III. How to Refuse to Design, Build, or Deploy (practice, politics) (40 mins)
 * "Fishbowl" conversation open to the audience
 
 ### Featured speakers
-Please click on a speaker name to see their bio.<br\>
+Please click on a speaker name to see their bio.  
+
 **1. When Not to Design, Build, or Deploy (frameworks, contexts)**
 
 <details><summary>De’Aira Bryant (Georgia Institute of Technology)</summary>
