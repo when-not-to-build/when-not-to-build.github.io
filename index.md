@@ -9,6 +9,9 @@ While much FAT* work to date has focused on various model and system interventio
 
 This interactive gathering will feature diverse invited and contributed perspectives presented in a fishbowl conversation format, accompanied by questions and comments from the audience. While the central focus of this discussion will be on individual instances of pat refusal efforts, the high-level goal of the session is to create a foundation for answering long-term questions of: (i) relevant historical and disciplinary contexts, (ii) frameworks and guidelines for practitioners to use when reasoning about ‘not designing, building, or deploying’, and (iii) the broader politics and aftermaths of refusal.
 
+### Session slides
+Session slides, including slides accompanying the opening presentations of featured participants can be found [here](/when-not-to-build-FATconf-slides.pdf).
+
 ### Session plan
 I. (10 mins)  
 * Welcome  
