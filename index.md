@@ -60,7 +60,7 @@ Lucy Vasserman is a manager and technical lead on the Conversation AI team, whic
 
 <details><summary>Laurence Diver (Vrije Universiteit Brussel)</summary>
 Laurence is a postdoctoral researcher in COHUBICOL, a multidisciplinary ERC Advanced Grant-funded project investigating how the foundational principles that underpin modern law can be retained, and if necessary adapted, as legal practice and the legal system are increasingly mediated by code- and data-driven systems. He holds first-class LLB and LLM degrees from the University of Edinburgh, where recently he defended a multidisciplinary Ph.D. synthesising legal-theoretical notions of legitimacy with the theory of design (title: “Digisprudence: the affordance of legitimacy in code-as-law”). You can read more about his research at laurenced.org, or follow him on twitter @laurence_diver.
-</details> <br />
+</details>
 
 <details><summary>Varoon Mathur (AI Now Institute) </summary>
 As a Technology Fellow, I conduct interdisciplinary research on the social implications of machine learning and related technologies on public domains. My specific interests include research on the limitation of Electronic Health Records (EHRs) for the purposes of building predictive algorithms for health care, as well as the specific limitations of fairness metrics and bias mitigation techniques for emotion/facial recognition, and how social systems analysis can be a part of auditing sociotechnical systems.
