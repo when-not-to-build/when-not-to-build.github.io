@@ -27,7 +27,7 @@ III. How to Refuse to Design, Build, or Deploy (practice, politics) (40 mins)
 ### Featured speakers
 **1. When Not to Design, Build, or Deploy (frameworks, contexts)**
 
-<details><summary>**De’Aira Bryant** (Georgia Institute of Technology)</summary>
+**<details><summary>De’Aira Bryant (Georgia Institute of Technology)</summary>**
 De’Aira Bryant is a computer science doctoral student in the School of Interactive Computing at the Georgia Institute of Technology. Her research areas span the fields of human-robot interaction and artificial intelligence where she explores the possibilities for interactive communication between children and intelligent embodied systems. In particular, she is interested in developing emotionally intelligent robotic systems specialized for children, using AI for social good and assuring the protection of vulnerable populations. De’Aira is a NSF-GRFP, GEM Consortium, and Georgia Tech SLOAN fellow. She was also recently honored as the 2019 guest scholar at the Aspen Institute Roundtable on Artificial Intelligence.
 </details>
 
